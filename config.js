@@ -15,7 +15,7 @@ global.APIs = { // API Prefix
   neoxr: 'https://api.neoxr.eu.org',
   amel: 'https://melcanz.com',
   hardianto: 'https://hardianto.xyz',
-  lol: 'https://api.lolhuman.xyz'
+  
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
